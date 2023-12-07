@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="300mm"
+   viewBox="0 0 1000 300"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="masscollabs_circle_golden_purple_half_circle_red.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1000mm"
+     inkscape:zoom="0.15665049"
+     inkscape:cx="1835.2959"
+     inkscape:cy="130.86458"
+     inkscape:window-width="1320"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     height="300mm" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3155"
+       sodipodi:rx="84.839996"
+       sodipodi:ry="83.346848"
+       style="fill:none;stroke:#ff0000;stroke-width:9.5563;stroke-linecap:square;stroke-linejoin:round"
+       sodipodi:type="arc"
+       sodipodi:open="true"
+       sodipodi:cy="148.59067"
+       sodipodi:cx="401.57928"
+       sodipodi:end="4.7701582"
+       sodipodi:start="1.5319876"
+       sodipodi:arc-type="arc"
+       d="m 404.87099,231.87476 a 84.839996,83.346848 0 0 1 -76.48304,-41.13403 84.839996,83.346848 0 0 1 0.82661,-85.65578 84.839996,83.346848 0 0 1 77.26314,-39.702092" />
+    <text
+       xml:space="preserve"
+       style="font-size:50.8px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#800080;stroke-width:0.264583"
+       x="350.43604"
+       y="132.91173"
+       id="text1876"><tspan
+         sodipodi:role="line"
+         id="tspan1874"
+         style="fill:#800080;stroke-width:0.264583"
+         x="350.43604"
+         y="132.91173">Masscollabs </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffd800;fill-opacity:1;stroke-width:0.264583"
+         x="350.43604"
+         y="196.41173"
+         id="tspan31">Services</tspan></text>
+  </g>
+</svg>
