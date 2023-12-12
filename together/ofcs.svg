@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="254mm"
+   height="297mm"
+   viewBox="0 0 254 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="ofcs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="303mm"
+     inkscape:zoom="0.54969805"
+     inkscape:cx="251.04692"
+     inkscape:cy="466.61981"
+     inkscape:window-width="1872"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;fill:#ff0000;stroke-width:0.264583"
+       x="0.17655493"
+       y="86.864838"
+       id="text2079"><tspan
+         sodipodi:role="line"
+         id="tspan2077"
+         style="font-size:25.4px;fill:#ff0000;stroke-width:0.264583"
+         x="0.17655493"
+         y="86.864838">OPEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;fill:#008000;stroke-width:0.264583"
+       x="2.7460968"
+       y="118.25137"
+       id="text15979"><tspan
+         sodipodi:role="line"
+         id="tspan15977"
+         style="fill:#008000;stroke-width:0.264583"
+         x="2.7460968"
+         y="118.25137">FREE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.3066px;fill:#ff6600;stroke-width:0.26361"
+       x="1.5397631"
+       y="151.56059"
+       id="text19451"
+       transform="scale(0.99632317,1.0036904)"><tspan
+         sodipodi:role="line"
+         id="tspan19449"
+         style="fill:#ff6600;stroke-width:0.26361"
+         x="1.5397631"
+         y="151.56059">COLLABORATIVE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;fill:#0000ff;stroke-width:0.264583"
+       x="3.3261764"
+       y="190.81604"
+       id="text39543"><tspan
+         sodipodi:role="line"
+         id="tspan39541"
+         style="fill:#0000ff;stroke-width:0.264583"
+         x="3.3261764"
+         y="190.81604">SECURE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;fill:#0000ff;stroke-width:0.264583"
+       x="38.34005"
+       y="227.74963"
+       id="text43453"><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;fill:#800080;stroke-width:0.264583"
+         x="38.34005"
+         y="227.74963"
+         id="tspan1893">by Masscollabs Services</tspan></text>
+    <path
+       d="m 230.9687,200.55879 c -11.14171,0 -20.16893,9.36299 -20.16893,20.91911 0,11.55613 9.02722,20.91912 20.16893,20.91912 11.14169,0 20.16891,-9.36299 20.16891,-20.91912 0,-11.55612 -9.02722,-20.91911 -20.16891,-20.91911 z m 0,37.78936 c -8.98656,0 -16.26527,-7.54943 -16.26527,-16.87025 0,-9.32081 7.27871,-16.87025 16.26527,-16.87025 8.98654,0 16.26525,7.54944 16.26525,16.87025 0,9.32082 -7.27871,16.87025 -16.26525,16.87025 z"
+       id="path49"
+       style="fill:#800080;stroke-width:0.0828248" />
+  </g>
+</svg>
