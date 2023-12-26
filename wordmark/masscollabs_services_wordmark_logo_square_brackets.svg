@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="masscollabs_services_wordmark_logo_square_brackets.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.45755463"
+     inkscape:cx="1068.7248"
+     inkscape:cy="744.17343"
+     inkscape:window-width="1872"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:50.8px;fill:#ff0000;stroke-width:0.264583"
+       x="-0.029364765"
+       y="157.54065"
+       id="text71156"><tspan
+         sodipodi:role="line"
+         id="tspan71154"
+         style="font-size:50.8px;fill:#800080;stroke-width:0.264583"
+         x="-0.029364765"
+         y="157.54065">[</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:50.8px;fill:#800080;stroke-width:0.264583"
+       x="189.65189"
+       y="157.56776"
+       id="text85694"><tspan
+         sodipodi:role="line"
+         id="tspan85692"
+         style="stroke-width:0.264583"
+         x="189.65189"
+         y="157.56776">]</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline">
+    <path
+       d="m 39.853296,121.8122 c -10.772513,0 -19.500613,8.92246 -19.500613,19.93485 0,11.0124 8.7281,19.93486 19.500613,19.93486 10.772517,0 19.500617,-8.92246 19.500617,-19.93486 0,-11.01239 -8.7281,-19.93485 -19.500617,-19.93485 z m 0,36.01135 c -8.688782,0 -15.726299,-7.19423 -15.726299,-16.0765 0,-8.88226 7.037517,-16.07649 15.726299,-16.07649 8.688781,0 15.726303,7.19423 15.726303,16.07649 0,8.88227 -7.037522,16.0765 -15.726303,16.0765 z"
+       id="path49"
+       style="fill:#800080;stroke-width:0.0795021"
+       inkscape:export-filename="/home/hwpplayer1/Projects/masscollabs/masscollabs_logo/wordmark/masscollabs_services_purple_circle_wordmark_logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;fill:#800080;stroke-width:0.264583"
+       x="74.238022"
+       y="135.98256"
+       id="text92823"><tspan
+         sodipodi:role="line"
+         id="tspan92821"
+         style="font-size:16.9333px;stroke-width:0.264583"
+         x="74.238022"
+         y="135.98256">Masscollabs</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:16.9333px;stroke-width:0.264583"
+         x="74.238022"
+         y="157.14919"
+         id="tspan92825">Services</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4" />
+</svg>
