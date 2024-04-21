@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="masscollabs-fsw-fsociety.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="400mm"
+     inkscape:snap-grids="false"
+     inkscape:zoom="0.40046569"
+     inkscape:cx="428.25142"
+     inkscape:cy="812.80371"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:cmmi10;-inkscape-font-specification:cmmi10;fill:#4c2447;fill-opacity:1;stroke-width:5.032;paint-order:markers fill stroke"
+       x="88.563324"
+       y="267.59717"
+       id="text2225"><tspan
+         sodipodi:role="line"
+         id="tspan2223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmmi10;-inkscape-font-specification:cmmi10;fill:#4c2447;fill-opacity:1;stroke-width:5.032"
+         x="88.563324"
+         y="267.59717">Free    Software  Free Society</tspan></text>
+    <path
+       d="m 201.55534,59.783659 c -46.02453,0 -83.3145,36.197974 -83.3145,80.874721 0,44.67677 37.28997,80.87475 83.3145,80.87475 46.02454,0 83.31451,-36.19798 83.31451,-80.87475 0,-44.676747 -37.28997,-80.874721 -83.31451,-80.874721 z m 0,146.096291 c -37.12199,0 -67.18911,-29.18664 -67.18911,-65.22157 0,-36.03491 30.06712,-65.221545 67.18911,-65.221545 37.12198,0 67.18912,29.186635 67.18912,65.221545 0,36.03493 -30.06714,65.22157 -67.18912,65.22157 z"
+       id="path49"
+       style="fill:#f4c430;stroke-width:0.33099;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:cmmi10;-inkscape-font-specification:cmmi10;fill:#f4c430;fill-opacity:1;stroke-width:5.032;paint-order:markers fill stroke"
+       x="153.39603"
+       y="289.96512"
+       id="text28753"><tspan
+         sodipodi:role="line"
+         style="fill:#4c2447;fill-opacity:1;stroke-width:5.032"
+         x="153.39603"
+         y="289.96512"
+         id="tspan28755">byMasscollabs Services</tspan></text>
+  </g>
+</svg>
