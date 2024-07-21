@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1200mm"
-   height="400mm"
-   viewBox="0 0 1200 400"
+   width="800mm"
+   height="200mm"
+   viewBox="0 0 800 200"
    version="1.1"
    id="svg1201"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="masscollaborationlabs_training.svg"
-   inkscape:export-filename="masscollaborationlabs_training.svg.png"
+   sodipodi:docname="masscollaborationlabs_training_remix.svg"
+   inkscape:export-filename="masscollaborationlabs_training_remix.svg.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.16182219"
-     inkscape:cx="1387.3252"
-     inkscape:cy="1668.498"
+     inkscape:zoom="6.2416831"
+     inkscape:cx="1397.2994"
+     inkscape:cy="391.24062"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -245,15 +245,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#f4c430;fill-opacity:1;stroke:#000000;stroke-width:0.461952;stroke-linecap:round;stroke-dasharray:0.461952, 0.461952"
+       style="fill:#f4c430;fill-opacity:1;stroke:#000000;stroke-width:0.265773;stroke-linecap:round;stroke-dasharray:0.265773, 0.265773"
        id="rect4081"
-       width="1200.6671"
-       height="400.46304"
-       x="-0.078226358"
-       y="0.074088112" />
+       width="801.97107"
+       height="198.45103"
+       x="-0.17631601"
+       y="-0.024001546" />
     <g
        id="g3752"
-       transform="matrix(0.34833236,0,0,0.34616407,208.05114,-39.779577)">
+       transform="matrix(0.07588334,0,0,0.07217259,315.89144,51.02609)">
       <path
          id="path3913"
          d="m 916.35,680.31 c 0,215.49 -174.69,390.17 -390.17,390.17 -215.49,0 -390.17,-174.69 -390.17,-390.17 0,-215.49 174.69,-390.17 390.17,-390.17 215.49,0 390.17,174.69 390.17,390.17 z"
@@ -1050,7 +1050,7 @@
     </g>
     <g
        id="layer1-3"
-       transform="matrix(0.10002413,0,0,0.10522729,355.40992,139.27287)">
+       transform="matrix(0.01965161,0,0,0.0194818,348.58026,89.951779)">
       <g
          id="g4125">
         <g
@@ -1296,22 +1296,24 @@
        id="text1155"><tspan
          sodipodi:role="line"
          id="tspan1153"
-         style="stroke-width:0.265" /></text>
+         style="stroke-width:0.265"
+         x="658.46423"
+         y="166.64818" /></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-weight:bold;font-size:35.2778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#000000;fill-opacity:1;stroke:#1c1c1c;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999;stroke-opacity:1"
-       x="521.95807"
-       y="187.95001"
+       style="font-style:italic;font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#000000;fill-opacity:1;stroke:#1c1c1c;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999;stroke-opacity:1"
+       x="384.39563"
+       y="98.475784"
        id="text1211"><tspan
          sodipodi:role="line"
-         style="font-size:35.2778px;fill:#000000;stroke:#1c1c1c;stroke-width:0.265;stroke-opacity:1"
-         x="521.95807"
-         y="187.95001"
+         style="font-size:7.05556px;fill:#000000;stroke:#1c1c1c;stroke-width:0.265;stroke-opacity:1"
+         x="384.39563"
+         y="98.475784"
          id="tspan1219">Mass Collaboration Labs</tspan><tspan
          sodipodi:role="line"
-         style="font-size:35.2778px;fill:#000000;stroke:#1c1c1c;stroke-width:0.265;stroke-opacity:1"
-         x="521.95807"
-         y="232.04727"
+         style="font-size:7.05556px;fill:#000000;stroke:#1c1c1c;stroke-width:0.265;stroke-opacity:1"
+         x="384.39563"
+         y="107.29523"
          id="tspan662">Free Software Free Society</tspan></text>
   </g>
 </svg>
