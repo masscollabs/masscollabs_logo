@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="mass.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.27544061"
+     inkscape:cx="535.50565"
+     inkscape:cy="637.16096"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 99.828099,149.00953 c -28.73031,0 -52.008166,23.13639 -52.008166,51.69209 0,28.55571 23.277856,51.6921 52.008166,51.6921 28.730321,0 52.008181,-23.13639 52.008181,-51.6921 0,-28.5557 -23.27786,-51.69209 -52.008181,-51.69209 z m 0,93.37927 c -23.172994,0 -41.942065,-18.65502 -41.942065,-41.68718 0,-23.03216 18.769071,-41.68717 41.942065,-41.68717 23.172991,0 41.942081,18.65501 41.942081,41.68717 0,23.03216 -18.76909,41.68718 -41.942081,41.68718 z"
+       id="path49"
+       style="fill:#800080;fill-opacity:1;stroke-width:0.209072" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:78.3167px;font-family:monospace;-inkscape-font-specification:'monospace Bold Italic';fill:#800080;fill-opacity:1;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="162.94626"
+       y="225.99196"
+       id="text1330"><tspan
+         sodipodi:role="line"
+         id="tspan1328"
+         style="font-size:78.3167px;stroke-width:0.265"
+         x="162.94626"
+         y="225.99196">MASS</tspan></text>
+  </g>
+</svg>
