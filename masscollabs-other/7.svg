@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg4741"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="7.svg"
+   inkscape:export-filename="7.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4743"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.44275393"
+     inkscape:cx="656.12066"
+     inkscape:cy="710.32684"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4738">
+    <linearGradient
+       id="linearGradient5670"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#100784;stop-opacity:1;"
+         offset="0"
+         id="stop5668" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5670"
+       id="linearGradient5676"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(30.229424,23.667654)"
+       x1="89.584746"
+       y1="207.77041"
+       x2="422.28865"
+       y2="207.77041" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:117.475px;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps Bold Italic';fill:#800080;fill-opacity:1;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="118.85535"
+       y="172.65567"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:117.475px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light,  Bold Italic';fill:#800080;fill-opacity:1;stroke-width:0.265"
+         x="118.85535"
+         y="172.65567">7th</tspan></text>
+    <path
+       d="m 58.323839,302.07848 c -10.054205,0 -18.200318,8.15724 -18.200318,18.22518 0,10.06795 8.146113,18.22519 18.200318,18.22519 10.054208,0 18.200321,-8.15724 18.200321,-18.22519 0,-10.06794 -8.146113,-18.22518 -18.200321,-18.22518 z m 0,32.92291 c -8.109416,0 -14.677668,-6.57723 -14.677668,-14.69773 0,-8.12049 6.568252,-14.69772 14.677668,-14.69772 8.109416,0 14.677677,6.57723 14.677677,14.69772 0,8.1205 -6.568261,14.69773 -14.677677,14.69773 z"
+       id="path49"
+       style="fill:#800080;stroke-width:0.0734384"
+       inkscape:export-filename="/home/hwpplayer1/Projects/masscollabs/masscollabs_logo/wordmark/masscollabs_services_purple_circle_wordmark_logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:22.6586px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;fill:#800080;stroke-width:0.118013"
+       x="94.886841"
+       y="327.93506"
+       id="text1876"
+       inkscape:export-filename="/home/hwpplayer1/Projects/masscollabs/masscollabs_logo/wordmark/masscollabs_services_purple_circle_wordmark_logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(0.99955929,1.0004409)"><tspan
+         sodipodi:role="line"
+         id="tspan1874"
+         style="fill:#800080;stroke-width:0.118013"
+         x="94.886841"
+         y="327.93506">Masscollabs Services</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:35.2777px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light,  Bold Italic';fill:#800080;fill-opacity:1;stroke-width:0.264999;stroke-linecap:round;stroke-dasharray:0.264999, 0.264999"
+       x="116.2864"
+       y="244.31442"
+       id="text5256"><tspan
+         sodipodi:role="line"
+         id="tspan5254"
+         style="fill:#800080;fill-opacity:1;stroke-width:0.265"
+         x="116.2864"
+         y="244.31442">Born Free !</tspan></text>
+  </g>
+</svg>
